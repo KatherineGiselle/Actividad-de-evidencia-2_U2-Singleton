@@ -110,3 +110,9 @@ namespace _2_U2_Singleton
 }
 
 ````
+
+
+## Captura
+
+<img width="665" height="426" alt="image" src="https://github.com/user-attachments/assets/903292d0-0894-4b6e-8c89-6dde81757c6d" />
+
